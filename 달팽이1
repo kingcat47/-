@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
+//달팽이2방식으로 짯으면 더 읽기 쉬웠을듯.
 	int n;
 	scanf("%d",&n);
 	int i,j;
